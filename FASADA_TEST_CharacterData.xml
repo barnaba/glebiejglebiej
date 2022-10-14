@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterData>
+  <CharacterCampaignData name="barnaba" endpoint="STEAM_1:1:61143345" steamid="76561198082552419">
+    <Character name="barnaba" originalname="barnaba" speciesname="human" gender="Male" race="None" salary="2915" experiencepoints="0" unlockedtalents="" additionaltalentpoints="0" headspriteid="13" hairindex="16" beardindex="0" moustacheindex="0" faceattachmentindex="12" skincolor="243,198,150,255" haircolor="52,48,48,255" facialhaircolor="161,88,55,255" startitemsgiven="false" ragdoll="" personality="Joker" missionscompletedsincedeath="0" hull="2002">
+      <job name="Medical Doctor" identifier="medicaldoctor">
+        <skill identifier="medical" level="43.74923" />
+        <skill identifier="weapons" level="19.760923" />
+        <skill identifier="mechanical" level="24.400291" />
+        <skill identifier="electrical" level="15.622269" />
+        <skill identifier="helm" level="7.8719645" />
+      </job>
+      <savedstatvalues />
+    </Character>
+    <inventory>
+      <Item name="" identifier="idcard" ID="3805" rect="817,-669,16,16" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="1" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,idcard,idmedic,name:barnaba,job:Medical Doctor,jobid:medicaldoctor,gender:male,headspriteid:13,hairindex:16,beardindex:0,moustacheindex:0,faceattachmentindex:12,haircolor:#343030,facialhaircolor:#A15837,skincolor:#F3C696,sheetindex:0;3" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.8" hiddeningame="False" i="0">
+        <IdCard teamid="Team1" pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" />
+      </Item>
+      <Item name="" identifier="headset" ID="3806" rect="813,-661,24,31" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,mobileradio" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.6" hiddeningame="False" i="1">
+        <WifiComponent teamid="Team1" range="35000" channel="0" allowcrossteamcommunication="False" linktochat="True" minchatmessageinterval="0" discardduplicatechatmessages="False" pickingtime="0" canbepicked="False" allowingameediting="True" msg="" channelmemory="0,1,2,3,4,5,6,7,8,9">
+          <requireditem items="mobilebattery" type="Contained" optional="false" ignoreineditor="false" excludebroken="true" targetslot="-1" allowvariants="true" />
+        </WifiComponent>
+        <ItemContainer containablerestrictions="" autofill="True" pickingtime="0" canbepicked="False" allowingameediting="True" msg="" contained="3807" />
+        <Wearable pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" variant="1" />
+        <inventory>
+          <Item name="" identifier="batterycell" ID="3807" rect="816,-672,17,10" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,loadable,mobilebattery" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.8" hiddeningame="False" i="0">
+            <Holdable holdpos="0,0" holdangle="0" swingamount="0,0" swingspeed="0" swingwhenholding="False" swingwhenaiming="False" swingwhenusing="False" pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" />
+            <Quality pickingtime="0" canbepicked="False" allowingameediting="True" msg="" />
+          </Item>
+        </inventory>
+      </Item>
+      <Item name="" identifier="doctorsuniform1" ID="3808" rect="776,-656,98,42" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,clothing" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.6" hiddeningame="False" i="3">
+        <Wearable pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" variant="1" />
+        <ItemContainer containablerestrictions="" autofill="True" pickingtime="0" canbepicked="False" allowingameediting="True" msg="" contained="3809,," />
+        <inventory>
+          <Item name="" identifier="antibloodloss2" ID="3809" rect="804,-666,41,22" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,chem,medical,petfood1" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.6" hiddeningame="False" i="0">
+            <Holdable holdpos="0,0" holdangle="0" swingamount="0,0" swingspeed="0" swingwhenholding="False" swingwhenaiming="False" swingwhenusing="False" pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" />
+          </Item>
+        </inventory>
+      </Item>
+      <Item name="" identifier="healthscanner" ID="3810" rect="806,-670,37,13" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,clothing" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.6" hiddeningame="False" i="8">
+        <Wearable pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" variant="1" />
+        <StatusHUD pickingtime="0" canbepicked="False" allowingameediting="True" msg="" />
+      </Item>
+      <Item name="" identifier="syringegun" ID="3811" rect="788,-659,74,35" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="weapon,smallitem,gun" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.7" hiddeningame="False" i="9">
+        <Holdable holdpos="0,0" holdangle="0" swingamount="0,0" swingspeed="0" swingwhenholding="False" swingwhenaiming="False" swingwhenusing="False" pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" />
+        <RangedWeapon pickingtime="0" canbepicked="False" allowingameediting="True" msg="">
+          <requireditem items="syringe" type="Contained" optional="false" ignoreineditor="false" excludebroken="true" targetslot="-1" allowvariants="true" />
+        </RangedWeapon>
+        <ItemContainer containablerestrictions="" autofill="True" pickingtime="0" canbepicked="False" allowingameediting="True" msg="" contained="" />
+        <inventory />
+      </Item>
+      <Item name="" identifier="antibleeding1" ID="3812" rect="818,-666,13,21" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,medical" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.6" hiddeningame="False" i="10">
+        <MeleeWeapon swing="True" swingpos="2,0" swingforce="3,-1" holdpos="0,0" holdangle="10" swingamount="0,0" swingspeed="0" swingwhenholding="False" swingwhenaiming="False" swingwhenusing="False" pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" />
+      </Item>
+      <Item name="" identifier="antibiotics" ID="3813" rect="816,-660,18,34" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,chem,medical,syringe" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.6" hiddeningame="False" i="11">
+        <MeleeWeapon swing="True" swingpos="2,0" swingforce="3,-1" holdpos="0,0" holdangle="220" swingamount="0,0" swingspeed="0" swingwhenholding="False" swingwhenaiming="False" swingwhenusing="False" pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" />
+        <Projectile pickingtime="0" canbepicked="False" allowingameediting="True" msg="" />
+      </Item>
+      <Item name="" identifier="antidama1" ID="3814" rect="816,-660,18,34" noninteractable="False" nonplayerteaminteractable="False" allowswapping="True" rotation="0" scale="0.5" spritecolor="255,255,255,255" inventoryiconcolor="255,255,255,255" containercolor="255,255,255,255" condition="100" invulnerabletodamage="False" tags="smallitem,chem,medical,syringe" displaysidebysidewhenlinked="False" disallowedupgrades="" spritedepth="0.6" hiddeningame="False" i="12">
+        <MeleeWeapon swing="True" swingpos="2,0" swingforce="3,-1" holdpos="0,0" holdangle="220" swingamount="0,0" swingspeed="0" swingwhenholding="False" swingwhenaiming="False" swingwhenusing="False" pickingtime="0" canbepicked="True" allowingameediting="True" msg="ItemMsgPickUpSelect" />
+        <Projectile pickingtime="0" canbepicked="False" allowingameediting="True" msg="" />
+      </Item>
+    </inventory>
+    <health>
+      <LimbHealth i="0" />
+      <LimbHealth i="1" />
+      <LimbHealth i="2" />
+      <LimbHealth i="3" />
+      <LimbHealth i="4" />
+      <LimbHealth i="5" />
+    </health>
+    <orders />
+  </CharacterCampaignData>
+</CharacterData>
