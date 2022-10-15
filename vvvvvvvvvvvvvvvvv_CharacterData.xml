@@ -126,7 +126,7 @@
     <Wallet balance="1214" rewarddistribution="0" />
   </CharacterCampaignData>
   <CharacterCampaignData name="CoarmiuS" address="STEAM_1:0:25984604" accountid="STEAM_1:0:25984604">
-    <Character name="CoarmiuS" originalname="CoarmiuS" speciesname="human" tags="head13,male" salary="3274" experiencepoints="1739" unlockedtalents="minorinmechanics" additionaltalentpoints="0" hairindex="10" beardindex="9" moustacheindex="0" faceattachmentindex="9" skincolor="243,198,150,255" haircolor="52,48,48,255" facialhaircolor="52,48,48,255" startitemsgiven="false" ragdoll="" personality="joker" missionscompletedsincedeath="2">
+    <Character name="CoarmiuS" originalname="CoarmiuS" speciesname="human" tags="male,head13" salary="3274" experiencepoints="1739" unlockedtalents="minorinmechanics" additionaltalentpoints="0" hairindex="10" beardindex="9" moustacheindex="0" faceattachmentindex="9" skincolor="243,198,150,255" haircolor="52,48,48,255" facialhaircolor="52,48,48,255" startitemsgiven="false" ragdoll="" personality="joker" missionscompletedsincedeath="2">
       <job name="Engineer" identifier="engineer">
         <skill identifier="electrical" level="52.92118" />
         <skill identifier="mechanical" level="37.292465" />
@@ -172,7 +172,7 @@
     <Wallet balance="0" rewarddistribution="0" />
   </CharacterCampaignData>
   <CharacterCampaignData name="barnaba" address="STEAM_1:1:61143345" accountid="STEAM_1:1:61143345">
-    <Character name="barnaba" originalname="barnaba" speciesname="human" tags="head13,male" salary="3158" experiencepoints="4377" unlockedtalents="scrounger,tinkerer,massproduction" additionaltalentpoints="0" hairindex="3" beardindex="6" moustacheindex="0" faceattachmentindex="15" skincolor="243,198,150,255" haircolor="71,54,55,255" facialhaircolor="161,88,55,255" startitemsgiven="false" ragdoll="" personality="rude" missionscompletedsincedeath="13">
+    <Character name="barnaba" originalname="barnaba" speciesname="human" tags="male,head13" salary="3158" experiencepoints="4377" unlockedtalents="scrounger,tinkerer,massproduction" additionaltalentpoints="0" hairindex="3" beardindex="6" moustacheindex="0" faceattachmentindex="15" skincolor="243,198,150,255" haircolor="71,54,55,255" facialhaircolor="161,88,55,255" startitemsgiven="false" ragdoll="" personality="rude" missionscompletedsincedeath="13">
       <job name="Mechanic" identifier="mechanic">
         <skill identifier="mechanical" level="69.230965" />
         <skill identifier="electrical" level="38.805836" />
@@ -322,7 +322,7 @@
     <Wallet balance="0" rewarddistribution="0" />
   </CharacterCampaignData>
   <CharacterCampaignData name="Owlie" address="STEAM_1:0:19374713" accountid="STEAM_1:0:19374713">
-    <Character name="Owlie" originalname="Owlie" speciesname="human" tags="head3,male" salary="4127" experiencepoints="4102" unlockedtalents="remotemonitor,coauthor,collegeathletics" additionaltalentpoints="0" hairindex="16" beardindex="6" moustacheindex="0" faceattachmentindex="10" skincolor="214,154,112,255" haircolor="139,126,108,255" facialhaircolor="187,169,129,255" startitemsgiven="false" ragdoll="" personality="professional" missionscompletedsincedeath="6">
+    <Character name="Owlie" originalname="Owlie" speciesname="human" tags="male,head3" salary="4127" experiencepoints="4102" unlockedtalents="remotemonitor,coauthor,collegeathletics" additionaltalentpoints="0" hairindex="16" beardindex="6" moustacheindex="0" faceattachmentindex="10" skincolor="214,154,112,255" haircolor="139,126,108,255" facialhaircolor="187,169,129,255" startitemsgiven="false" ragdoll="" personality="professional" missionscompletedsincedeath="6">
       <job name="Engineer" identifier="engineer">
         <skill identifier="electrical" level="77.22003" />
         <skill identifier="mechanical" level="58.53159" />
@@ -787,7 +787,7 @@
     <Wallet balance="12" rewarddistribution="0" />
   </CharacterCampaignData>
   <CharacterCampaignData name="PaneN" address="STEAM_1:1:723433105" accountid="STEAM_1:1:723433105">
-    <Character name="PaneN" originalname="PaneN" speciesname="human" tags="head6,male" salary="3492" experiencepoints="2642" unlockedtalents="apprenticeship,standanddeliver" additionaltalentpoints="0" hairindex="14" beardindex="4" moustacheindex="0" faceattachmentindex="0" skincolor="243,198,150,255" haircolor="222,215,204,255" facialhaircolor="222,215,204,255" startitemsgiven="false" ragdoll="" personality="rude" missionscompletedsincedeath="11">
+    <Character name="PaneN" originalname="PaneN" speciesname="human" tags="male,head6" salary="3492" experiencepoints="2642" unlockedtalents="apprenticeship,standanddeliver" additionaltalentpoints="0" hairindex="14" beardindex="4" moustacheindex="0" faceattachmentindex="0" skincolor="243,198,150,255" haircolor="222,215,204,255" facialhaircolor="222,215,204,255" startitemsgiven="false" ragdoll="" personality="rude" missionscompletedsincedeath="11">
       <job name="Assistant" identifier="assistant">
         <skill identifier="weapons" level="36.93091" />
         <skill identifier="mechanical" level="39.96004" />
