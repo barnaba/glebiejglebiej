@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CharacterData>
-  <CharacterCampaignData name="Rudy Renifer" endpoint="STEAM_1:1:20758008" steamid="76561198001781745">
-    <Character name="Rudy Renifer" originalname="Rudy Renifer" speciesname="human" gender="Male" race="None" salary="3367" experiencepoints="536" unlockedtalents="" additionaltalentpoints="0" headspriteid="1" hairindex="12" beardindex="8" moustacheindex="0" faceattachmentindex="0" skincolor="74,50,25,255" haircolor="222,215,204,255" facialhaircolor="199,125,82,255" startitemsgiven="false" ragdoll="" personality="Laid-back" missionscompletedsincedeath="2">
+  <CharacterCampaignData name="Rudy Renifer" address="STEAM_1:1:20758008" accountid="STEAM_1:1:20758008">
+    <Character name="Rudy Renifer" originalname="Rudy Renifer" speciesname="human" tags="head1,male" salary="3367" experiencepoints="536" unlockedtalents="" additionaltalentpoints="0" hairindex="12" beardindex="8" moustacheindex="0" faceattachmentindex="0" skincolor="74,50,25,255" haircolor="222,215,204,255" facialhaircolor="199,125,82,255" startitemsgiven="false" ragdoll="" personality="laid-back" missionscompletedsincedeath="2">
       <job name="Mechanic" identifier="mechanic">
         <skill identifier="mechanical" level="40.38898" />
         <skill identifier="electrical" level="25.893084" />
@@ -137,8 +137,8 @@
     </health>
     <orders />
   </CharacterCampaignData>
-  <CharacterCampaignData name="barnaba" endpoint="STEAM_1:1:61143345" steamid="76561198082552419">
-    <Character name="barnaba" originalname="barnaba" speciesname="human" gender="Male" race="None" salary="3187" experiencepoints="3159" unlockedtalents="bootcamp,gunsmith" additionaltalentpoints="0" headspriteid="13" hairindex="16" beardindex="0" moustacheindex="0" faceattachmentindex="12" skincolor="243,198,150,255" haircolor="52,48,48,255" facialhaircolor="161,88,55,255" startitemsgiven="false" ragdoll="" personality="Laid-back" missionscompletedsincedeath="8" hull="821">
+  <CharacterCampaignData name="barnaba" address="STEAM_1:1:61143345" accountid="STEAM_1:1:61143345">
+    <Character name="barnaba" originalname="barnaba" speciesname="human" tags="male,head13" salary="3187" experiencepoints="3159" unlockedtalents="bootcamp,gunsmith" additionaltalentpoints="0" hairindex="16" beardindex="0" moustacheindex="0" faceattachmentindex="12" skincolor="243,198,150,255" haircolor="52,48,48,255" facialhaircolor="161,88,55,255" startitemsgiven="false" ragdoll="" personality="laid-back" missionscompletedsincedeath="8">
       <job name="Security Officer" identifier="securityofficer">
         <skill identifier="weapons" level="60.540577" />
         <skill identifier="medical" level="25.758015" />
@@ -439,8 +439,8 @@
     </health>
     <orders />
   </CharacterCampaignData>
-  <CharacterCampaignData name="YaroslavPL" endpoint="STEAM_1:0:45940617" steamid="76561198052146962">
-    <Character name="YaroslavPL" originalname="YaroslavPL" speciesname="human" gender="Male" race="None" salary="3079" experiencepoints="2844" unlockedtalents="safetyfirst,hullfixer" additionaltalentpoints="0" headspriteid="8" hairindex="7" beardindex="8" moustacheindex="0" faceattachmentindex="15" skincolor="200,165,131,255" haircolor="139,126,108,255" facialhaircolor="139,126,108,255" startitemsgiven="false" ragdoll="" personality="Tough" missionscompletedsincedeath="8" hull="821">
+  <CharacterCampaignData name="YaroslavPL" address="STEAM_1:0:45940617" accountid="STEAM_1:0:45940617">
+    <Character name="YaroslavPL" originalname="YaroslavPL" speciesname="human" tags="male,head8" salary="3079" experiencepoints="2844" unlockedtalents="safetyfirst,hullfixer" additionaltalentpoints="0" hairindex="7" beardindex="8" moustacheindex="0" faceattachmentindex="15" skincolor="200,165,131,255" haircolor="139,126,108,255" facialhaircolor="139,126,108,255" startitemsgiven="false" ragdoll="" personality="tough" missionscompletedsincedeath="8">
       <job name="Mechanic" identifier="mechanic">
         <skill identifier="mechanical" level="78.12553" />
         <skill identifier="electrical" level="47.120003" />
@@ -631,8 +631,8 @@
       <order id="fixleaks" priority="2" targettype="0" />
     </orders>
   </CharacterCampaignData>
-  <CharacterCampaignData name="Uncle" endpoint="STEAM_1:0:48812578" steamid="76561198057890884">
-    <Character name="Uncle" originalname="Uncle" speciesname="human" gender="Male" race="None" salary="3151" experiencepoints="2644" unlockedtalents="fieldmedic,mechanicscourse" additionaltalentpoints="0" headspriteid="1" hairindex="15" beardindex="14" moustacheindex="0" faceattachmentindex="0" skincolor="252,225,198,255" haircolor="71,54,55,255" facialhaircolor="71,54,55,255" startitemsgiven="false" ragdoll="" personality="Joker" missionscompletedsincedeath="10" hull="821">
+  <CharacterCampaignData name="Uncle" address="STEAM_1:0:48812578" accountid="STEAM_1:0:48812578">
+    <Character name="Uncle" originalname="Uncle" speciesname="human" tags="head1,male" salary="3151" experiencepoints="2644" unlockedtalents="fieldmedic,mechanicscourse" additionaltalentpoints="0" hairindex="15" beardindex="14" moustacheindex="0" faceattachmentindex="0" skincolor="252,225,198,255" haircolor="71,54,55,255" facialhaircolor="71,54,55,255" startitemsgiven="false" ragdoll="" personality="joker" missionscompletedsincedeath="10">
       <job name="Medical Doctor" identifier="medicaldoctor">
         <skill identifier="medical" level="45.870792" />
         <skill identifier="weapons" level="30.77405" />
@@ -895,8 +895,8 @@
     </health>
     <orders />
   </CharacterCampaignData>
-  <CharacterCampaignData name="Owlie" endpoint="STEAM_1:0:19374713" steamid="76561197999015154">
-    <Character name="Owlie" originalname="Owlie" speciesname="human" gender="Female" race="None" salary="3012" experiencepoints="2844" unlockedtalents="minorinmechanics,remotemonitor" additionaltalentpoints="0" headspriteid="9" hairindex="8" beardindex="0" moustacheindex="0" faceattachmentindex="0" skincolor="214,154,112,255" haircolor="222,215,204,255" facialhaircolor="123,132,120,255" startitemsgiven="false" ragdoll="" personality="Joker" missionscompletedsincedeath="11" hull="821">
+  <CharacterCampaignData name="Owlie" address="STEAM_1:0:19374713" accountid="STEAM_1:0:19374713">
+    <Character name="Owlie" originalname="Owlie" speciesname="human" tags="female,head9" salary="3012" experiencepoints="2844" unlockedtalents="minorinmechanics,remotemonitor" additionaltalentpoints="0" hairindex="8" beardindex="0" moustacheindex="0" faceattachmentindex="0" skincolor="214,154,112,255" haircolor="222,215,204,255" facialhaircolor="123,132,120,255" startitemsgiven="false" ragdoll="" personality="joker" missionscompletedsincedeath="11">
       <job name="Engineer" identifier="engineer">
         <skill identifier="electrical" level="63.2979" />
         <skill identifier="mechanical" level="47.38044" />
@@ -1118,8 +1118,8 @@
     </health>
     <orders />
   </CharacterCampaignData>
-  <CharacterCampaignData name="Adam Jestem" endpoint="STEAM_1:0:29619689" steamid="76561198019505106">
-    <Character name="Adam Jestem" originalname="Adam Jestem" speciesname="human" gender="Male" race="None" salary="3455" experiencepoints="934" unlockedtalents="travelingtradesman" additionaltalentpoints="0" headspriteid="5" hairindex="0" beardindex="0" moustacheindex="0" faceattachmentindex="0" skincolor="119,73,41,255" haircolor="210,163,111,255" facialhaircolor="58,58,60,255" startitemsgiven="false" ragdoll="" personality="Joker" missionscompletedsincedeath="0">
+  <CharacterCampaignData name="Adam Jestem" address="STEAM_1:0:29619689" accountid="STEAM_1:0:29619689">
+    <Character name="Adam Jestem" originalname="Adam Jestem" speciesname="human" tags="male,head5" salary="3455" experiencepoints="934" unlockedtalents="travelingtradesman" additionaltalentpoints="0" hairindex="0" beardindex="0" moustacheindex="0" faceattachmentindex="0" skincolor="119,73,41,255" haircolor="210,163,111,255" facialhaircolor="58,58,60,255" startitemsgiven="false" ragdoll="" personality="joker" missionscompletedsincedeath="0">
       <job name="Captain" identifier="captain">
         <skill identifier="helm" level="54.121147" />
         <skill identifier="weapons" level="27.245531" />
@@ -1229,8 +1229,8 @@
     </health>
     <orders />
   </CharacterCampaignData>
-  <CharacterCampaignData name="wlubel" endpoint="STEAM_1:1:94800509" steamid="76561198149866747">
-    <Character name="Kendall Brandonn (wlubel)" originalname="Kendall Brandonn (wlubel)" speciesname="human" gender="Female" race="None" salary="2429" experiencepoints="2221" unlockedtalents="bootcamp,firstaidtraining" additionaltalentpoints="0" headspriteid="1" hairindex="4" beardindex="0" moustacheindex="0" faceattachmentindex="0" skincolor="113,77,52,255" haircolor="161,88,55,255" facialhaircolor="123,132,120,255" startitemsgiven="false" ragdoll="" personality="Tough" missionscompletedsincedeath="0">
+  <CharacterCampaignData name="wlubel" address="STEAM_1:1:94800509" accountid="STEAM_1:1:94800509">
+    <Character name="Kendall Brandonn (wlubel)" originalname="Kendall Brandonn (wlubel)" speciesname="human" tags="head1,female" salary="2429" experiencepoints="2221" unlockedtalents="bootcamp,firstaidtraining" additionaltalentpoints="0" hairindex="4" beardindex="0" moustacheindex="0" faceattachmentindex="0" skincolor="113,77,52,255" haircolor="161,88,55,255" facialhaircolor="123,132,120,255" startitemsgiven="false" ragdoll="" personality="tough" missionscompletedsincedeath="0">
       <job name="Security Officer" identifier="securityofficer">
         <skill identifier="weapons" level="48.846718" />
         <skill identifier="medical" level="29.528011" />
